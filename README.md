@@ -1,1 +1,3 @@
-# EcosystemPlatform
+# Ecosystem Platform
+
+![](screenshot.png)
